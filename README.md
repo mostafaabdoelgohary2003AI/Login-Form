@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/logo.png" width="128" alt="Login-Form logo"></p>
+
 # Login Form
 
 A modern, responsive login form built with HTML, CSS, and JavaScript. Features a sleek design with Material Design icons and smooth animations.
